@@ -1,2 +1,2 @@
 #!/bin/bash
-alias $PATH="mkdir action >> echo $PATH "
+alias PATH="$PATH:/action"
