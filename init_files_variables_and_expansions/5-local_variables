@@ -1,2 +1,2 @@
 #!/bin/bash
- alias variables="printenv;set"
+printenv | set
