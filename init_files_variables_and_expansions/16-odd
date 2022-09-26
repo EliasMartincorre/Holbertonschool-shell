@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -s -d '.\n'| cut -f 2
+paste -s -d '.\n'| cut -d "." -f 1
